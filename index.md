@@ -37,6 +37,7 @@ Individual participants evaluate and compare participating robot systems through
  
 Participation is accepted on a first-come, first-served basis.
 
+ 
 ## Prizes
 
 Prizes will be awarded to recognize outstanding performance in both the team and individual competitions.
@@ -62,7 +63,7 @@ Certificate, Prize amount coming soon ...
 🥈 **Runner-Up Individual Participant**
 Certificate, Prize amount coming soon ...
 
-
+ 
 # Competition Tasks
 
 ## Task 1: Needle Threading
@@ -117,7 +118,7 @@ The competition is intentionally platform-agnostic. Eligible systems include:
 <br>No remote center of motion (RCM) constraint is required.
 Teams may place the competition scenarios anywhere within their robot workspace.
 
- 
+ 
 # Competition Scenarios
 
 The competition scenarios are based on the following components:
@@ -142,8 +143,7 @@ All custom components are manufactured using PLA on a Bambu Lab A1 Mini printer:
 ### Download
 👉 <https://github.com/MEDCVR/Forceps-Manipulation-Challenge/raw/refs/heads/main/IROS_FFM_Setup.zip>
 
-
-
+ 
 # Scoring
 
 ### Task 1
@@ -154,6 +154,7 @@ All custom components are manufactured using PLA on a Bambu Lab A1 Mini printer:
 - Each successfully inserted screw is worth: **1 point**
 - A fully successful trial therefore yields: **3 points**
 
+ 
 # Team Competition 
 Teams accumulate points across three competition phases:
 
@@ -216,6 +217,8 @@ Participants complete on max. 6 robot systems:
 Only the three highest-scoring teleoperation sessions with different robot systems contribute to the final score (30 points each).
 
 ### Maximum Individual Score: **120 points**
+
+ 
 
 # Organizers
 - **Lueder A. Kahrs** (University of Toronto)
