@@ -55,7 +55,7 @@ Certificate, Prize amount coming soon ...
 Certificate 
    
 ### Individual Awards
- 
+
 🥇 **Top Individual Participant**
 Certificate, Prize amount coming soon ...
 
