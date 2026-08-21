@@ -6,7 +6,6 @@ layout: default
 # IROS 2026 Forceps-Based Fine Manipulation (FFM) Challenge
  
 ## IROS 2026 Competition
- 
 The Forceps-Based Fine Manipulation (FFM) Challenge aims to advance robotic manipulation of very small objects, a capability that remains challenging for robotic systems while being essential in applications such as precision manufacturing, scientific experimentation, electronics assembly, and surgical robotics.
  
 Inspired by surgical robotic manipulation, the competition promotes the use of accessible forceps-based robotic systems, such as EndoWrist instruments integrated with robotic arms, while extending the scope beyond medical applications. These approaches can help reduce barriers to entry compared to established platforms such as the da Vinci Research Kit (dVRK), enabling broader participation and encouraging innovation across the robotics community.
@@ -134,49 +133,29 @@ Teams are encouraged to obtain identical components for testing and system valid
 
  
 ### Task 1
+- Each correctly threaded needle eye is worth: **1 point**
+- A fully successful trial therefore yields: **3 points**
  
-Each correctly threaded needle eye is worth:
- 
-**1 point**
- 
-A fully successful trial therefore yields:
- 
-**3 points**
- 
-### Task 2
- 
-Each successfully inserted screw is worth:
- 
-**1 point**
- 
-A fully successful trial therefore yields:
- 
-**3 points**
- 
- 
-# Team Competition
- 
+### Task 2 
+- Each successfully inserted screw is worth: **1 point**
+- A fully successful trial therefore yields: **3 points**
+
+# Team Competition 
 Teams accumulate points across three competition phases:
- 
-## Day 1: Team Teleoperation
- 
+
+## Day 1: Team Teleoperation 
 Robot systems are operated by members of the participating team.
- 
-### Requirements
- 
+
+### Requirements 
 - Safe system demonstration
 - Minimum 2 hours teleoperation operation
- 
-### Scoring Objectives
- 
+
+### Scoring Objectives 
 - 10 successful Task 1 trials
 - 10 successful Task 2 trials
- 
-### Maximum Score
- 
-**60 points**
- 
- 
+
+### Maximum Score: **60 points**
+
 ## Day 2: Independent Participant Evaluation
  
 Independent participants teleoperate competing robot systems.
