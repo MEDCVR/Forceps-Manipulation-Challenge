@@ -49,11 +49,11 @@ Participation is accepted on a first-come, first-served basis.
 <p align="center">
 <img src="Task1.jpg" width="700">
 </p>
- 
+
 Three differently colored plastic sewing needles are inserted into randomly selected locations within an L-bracket needle holder. The orientations of the needle eyes differ by 90° in a randomized arrangement.
  
 The order of needle threading and the insertion directions are randomly selected before each trial.
- 
+
 ### Objective
  
 Guide a thread through all three needle eyes according to:
@@ -84,7 +84,7 @@ A screw is considered successfully inserted when:
 - the screw passes completely through the hole.
 
  
-# Platform Eligibility
+# Robot Platform Eligibility
 
 The competition is intentionally platform-agnostic. Eligible systems include:
 
@@ -94,14 +94,14 @@ The competition is intentionally platform-agnostic. Eligible systems include:
 - Forceps-based robotic systems
 - Surgical robotic research platforms
 - Custom-built robotic manipulators
- 
-No remote center of motion (RCM) constraint is required.
- 
+
+<br>No remote center of motion (RCM) constraint is required.
+
 Teams may place the competition fixtures anywhere within their robot workspace.
  
- 
-# Manufacturing Guidelines
- 
+
+# Competition Scenarios
+
 The competition scenarios are based on the following components:
  
 ### Commercial Components
@@ -113,7 +113,7 @@ The competition scenarios are based on the following components:
 - LEREATI 0.8 mm Waxed Thread
  
 ### Custom Components
- 
+
 All custom components are manufactured using PLA on a Bambu Lab A1 Mini printer:
  
 - Silicone Pad Mold
