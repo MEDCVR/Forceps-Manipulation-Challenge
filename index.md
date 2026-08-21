@@ -92,7 +92,6 @@ The competition is intentionally platform-agnostic. Eligible systems include:
 - Custom-built robotic manipulators
 
 <br>No remote center of motion (RCM) constraint is required.
-
 Teams may place the competition scenarios anywhere within their robot workspace.
 
  
@@ -115,12 +114,13 @@ All custom components are manufactured using PLA on a Bambu Lab A1 Mini printer:
 - Silicone Pad Mount
 - Needle Holder L-Bracket
  
-Teams are encouraged to obtain identical components for testing and system validation prior to the competition.
+<br>Teams are encouraged to obtain identical components for testing and system validation prior to the competition.
 
 ### Download
 👉 <https://github.com/MEDCVR/Forceps-Manipulation-Challenge/raw/refs/heads/main/IROS_FFM_Setup.zip>
 
- 
+
+
 # Scoring
 
 ### Task 1
@@ -148,7 +148,7 @@ Robot systems are operated by members of the participating team.
 ### Maximum Score: **60 points**
 
 ## Day 2: Independent Participant Evaluation
-- Independent participants teleoperate competing robot systems.
+- Independent participants teleoperate competing robot systems (max. 6).
 - Participants are assigned through a lottery process and will not operate systems from their own institutions.
 
 ### Session Duration 
@@ -186,7 +186,7 @@ Volunteer judges receive:
 - Maximum 30 points
 
 ## Teleoperation Performance (Day 2)
-Participants complete:
+Participants complete on max. 6 robot systems:
 - Task 1 trials
 - Task 2 trials
 
