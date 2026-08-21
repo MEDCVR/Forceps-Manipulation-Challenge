@@ -94,8 +94,8 @@ The competition is intentionally platform-agnostic. Eligible systems include:
 <br>No remote center of motion (RCM) constraint is required.
 
 Teams may place the competition scenarios anywhere within their robot workspace.
- 
 
+ 
 # Competition Scenarios
 
 The competition scenarios are based on the following components:
@@ -120,6 +120,7 @@ Teams are encouraged to obtain identical components for testing and system valid
 ### Download
 👉 <https://github.com/MEDCVR/Forceps-Manipulation-Challenge/raw/refs/heads/main/IROS_FFM_Setup.zip>
 
+ 
 # Scoring
 
 ### Task 1
@@ -203,7 +204,7 @@ Only the three highest-scoring teleoperation sessions with different robot syste
 - **Tamás Haidegger** (Óbuda University; Queen's University)
 - **Christos Bergeles** (King's College London)
 - **Michael Yip** (University of California San Diego)
-- **Nirmal Pol** (university of Toronto)
+- **Nirmal Pol** (University of Toronto)
 - **Aban Merali** (King's College London)
 
  
