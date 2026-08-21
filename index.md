@@ -38,11 +38,11 @@ Individual participants evaluate and compare participating robot systems through
 Participation is accepted on a first-come, first-served basis.
 
 ## Prizes
- 
+
 Prizes will be awarded to recognize outstanding performance in both the team and individual competitions.
  
 ### Team Awards
- 
+
 🥇 **1st Place Team**
 Certificate, Prize amount coming soon ...
 
@@ -50,18 +50,19 @@ Certificate, Prize amount coming soon ...
 Certificate, Prize amount coming soon ...
   
 ### Special Awards
- 
+
 🏆 **Best Autonomous System Award**
 Certificate 
    
 ### Individual Awards
  
 🥇 **Top Individual Participant**
-Highest overall individual score.
- 
+Certificate, Prize amount coming soon ...
+
 🥈 **Runner-Up Individual Participant**
- 
- 
+Certificate, Prize amount coming soon ...
+
+
 # Competition Tasks
 
 ## Task 1: Needle Threading
