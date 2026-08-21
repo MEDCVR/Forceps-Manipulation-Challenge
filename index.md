@@ -135,7 +135,7 @@ Teams are encouraged to obtain identical components for testing and system valid
 ### Task 1
 - Each correctly threaded needle eye is worth: **1 point**
 - A fully successful trial therefore yields: **3 points**
- 
+
 ### Task 2 
 - Each successfully inserted screw is worth: **1 point**
 - A fully successful trial therefore yields: **3 points**
@@ -157,77 +157,52 @@ Robot systems are operated by members of the participating team.
 ### Maximum Score: **60 points**
 
 ## Day 2: Independent Participant Evaluation
- 
-Independent participants teleoperate competing robot systems.
- 
-Participants are assigned through a lottery process and will not operate systems from their own institutions.
- 
-### Session Duration
- 
+- Independent participants teleoperate competing robot systems.
+- Participants are assigned through a lottery process and will not operate systems from their own institutions.
+
+### Session Duration 
 20 minutes per robot
- 
-### Trial Structure
- 
+
+### Trial Structure 
 - 6 Task 1 trials
 - 6 Task 2 trials
 - First trial serves as a warm-up and is not scored
  
-### Maximum Score
- 
+### Maximum Score 
 - 30 points per participant
 - Best 3 robot systems counted
  
 **Maximum Day 2 Score: 90 points**
- 
- 
-## Day 3: Autonomous Operation
- 
-Teams may deploy autonomous control methods such as Imitation Learning.
- 
-During official scoring, robot control computers may not access:
- 
-- Internet connections
-- Local networks
-- External user inputs
- 
-### Evaluation Window
- 
-1 hour
- 
-Unlimited attempts are allowed.
- 
-The 5 best successful trials for both tasks are counted.
- 
-### Maximum Score
- 
-**30 points**
+
+## Day 3: Autonomous Operation 
+- Teams may deploy autonomous control methods such as Imitation Learning.
+- During official scoring, robot control computers may not access: Internet connections, local networks, external user inputs
+
+### Evaluation Window 
+- 1 hour
+- Unlimited attempts are allowed.
+- The 5 best successful trials for both tasks are counted.
+
+### Maximum Score: **30 points**
  
  
 # Individual Competition
- 
 Participants accumulate points through:
  
 ## Judging
- 
 Volunteer judges receive:
- 
 - 10 points per hour
 - Maximum 30 points
  
 ## Teleoperation Performance
- 
 Participants complete:
- 
 - Task 1 trials
 - Task 2 trials
- 
+
 Only the three highest-scoring teleoperation sessions contribute to the final score.
- 
-### Maximum Individual Score
- 
-**120 points**
- 
- 
+
+### Maximum Individual Score: **120 points**
+
 # Organizers
  
 ### Lueder Kahrs
