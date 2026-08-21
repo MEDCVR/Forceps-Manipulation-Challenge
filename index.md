@@ -7,9 +7,7 @@ layout: default
  
 ## IROS 2026 Competition
 The Forceps-Based Fine Manipulation (FFM) Challenge aims to advance robotic manipulation of very small objects, a capability that remains challenging for robotic systems while being essential in applications such as precision manufacturing, scientific experimentation, electronics assembly, and surgical robotics.
-
 <br>Inspired by surgical robotic manipulation, the competition promotes the use of accessible forceps-based robotic systems, such as EndoWrist instruments integrated with robotic arms, while extending the scope beyond medical applications. These approaches can help reduce barriers to entry compared to established platforms such as the da Vinci Research Kit (dVRK), enabling broader participation and encouraging innovation across the robotics community.
-
 <br>The competition focuses on three key research areas: 
 - Hardware Development
 - Teleoperation
@@ -195,7 +193,6 @@ Only the three highest-scoring teleoperation sessions with different robot syste
 ### Maximum Individual Score: **120 points**
 
 # Organizers
- 
 - **Lueder A. Kahrs** (University of Toronto)
 - **Peter Kazanzides** (Johns Hopkins University)
 - **Loris Fichera** (Worcester Polytechnic Institute)
