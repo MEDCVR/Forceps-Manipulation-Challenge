@@ -16,19 +16,7 @@ The competition focuses on three key research areas:
 - Hardware Development
 - Teleoperation
 - Autonomous Control
- 
----
- 
-## Important Dates
- 
-| Event | Date |
-|---------|---------|
-| Registration Opens | TBD |
-| Registration Deadline | TBD |
-| Competition Days | IROS 2026 |
-| Awards Ceremony | IROS 2026 |
- 
----
+
  
 ## Registration
  
@@ -54,8 +42,7 @@ Individual participants evaluate and compare participating robot systems through
 - Maximum 60 individual participants
  
 Participation is accepted on a first-come, first-served basis.
- 
----
+
  
 # Competition Tasks
  
@@ -79,8 +66,6 @@ Guide a thread through all three needle eyes according to:
 Participants may request a new randomized arrangement before starting a trial.
 
  
----
- 
 ## Task 2: Screw Pick-and-Place
  
 <p align="center">
@@ -101,8 +86,6 @@ A screw is considered successfully inserted when:
 - the screw passes completely through the hole.
 
  
----
- 
 # Platform Eligibility
  
 The competition is intentionally platform-agnostic.
@@ -120,7 +103,6 @@ No remote center of motion (RCM) constraint is required.
  
 Teams may place the competition fixtures anywhere within their robot workspace.
  
----
  
 # Manufacturing Guidelines
  
@@ -144,7 +126,6 @@ All custom components are manufactured using PLA on a Bambu Lab A1 Mini printer:
  
 Teams are encouraged to obtain identical components for testing and system validation prior to the competition.
  
----
  
 # Downloads
   
@@ -172,7 +153,6 @@ A fully successful trial therefore yields:
  
 **3 points**
  
----
  
 # Team Competition
  
@@ -196,7 +176,6 @@ Robot systems are operated by members of the participating team.
  
 **60 points**
  
----
  
 ## Day 2: Independent Participant Evaluation
  
@@ -221,7 +200,6 @@ Participants are assigned through a lottery process and will not operate systems
  
 **Maximum Day 2 Score: 90 points**
  
----
  
 ## Day 3: Autonomous Operation
  
@@ -245,7 +223,6 @@ The 5 best successful trials for both tasks are counted.
  
 **30 points**
  
----
  
 # Individual Competition
  
@@ -271,7 +248,6 @@ Only the three highest-scoring teleoperation sessions contribute to the final sc
  
 **120 points**
  
----
  
 # Organizers
  
@@ -281,7 +257,7 @@ University of Toronto
  
 ### ...
  
----
+
  
 # Questions
  
@@ -289,7 +265,7 @@ Questions can be submitted through the official competition form:
  
 <https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEAr_4z6hFmdLmqnnKCyMP9pUMUI0UzhRMlNKSTEyWEJYSDhWMkdBMFAyUC4u>
  
----
+
  
 # Related Competitions
  
@@ -299,23 +275,21 @@ The FFM Challenge builds upon concepts explored in recent robotic manipulation a
 - International Challenge on Surgical Autonomy in Real-World Settings, Hamlyn Symposium 2026
 - Dexterous Manipulation for Robotic Surgery, BioRob 2026
  
----
+
  
 # References
  
-[1] K. L. Schwaner et al., *MOPS: A Modular and Open Platform for Surgical Robotics Research*, ISMR 2021.
+- K. L. Schwaner et al., *MOPS: A Modular and Open Platform for Surgical Robotics Research*, ISMR 2021.
+- M. Habeeb et al., *Development of an Open Platform Adaptor to Integrate Da Vinci Si Instruments with Collaborative Robotic Systems*, HSMR 2025.
+- C. D'Ettorre et al., *Accelerating Surgical Robotics Research: A Review of 10 Years with the da Vinci Research Kit*, IEEE Robotics and Automation Magazine, 2021.
  
-[2] M. Habeeb et al., *Development of an Open Platform Adaptor to Integrate Da Vinci Si Instruments with Collaborative Robotic Systems*, HSMR 2025.
- 
-[3] C. D'Ettorre et al., *Accelerating Surgical Robotics Research: A Review of 10 Years with the da Vinci Research Kit*, IEEE Robotics and Automation Magazine, 2021.
- 
----
+
  
 # Sponsors and Partners
  
 Coming soon.
  
----
+
  
 # News
  
