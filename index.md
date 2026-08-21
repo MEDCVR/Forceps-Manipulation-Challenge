@@ -20,7 +20,7 @@ The competition focuses on three key research areas:
 ## Registration
  
 ### Team Registration
- 
+
 Teams provide and operate their own robotic systems.
  
 👉 **Register as a Team**
@@ -28,7 +28,7 @@ Teams provide and operate their own robotic systems.
 <https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEAr_4z6hFmdLmqnnKCyMP9pUQk9ORjJTMVZSNExPU0tBRzhPN1FNNVU1Mi4u>
  
 ### Individual Registration
- 
+
 Individual participants evaluate and compare participating robot systems through teleoperation.
  
 👉 **Register as an Individual Participant**
@@ -36,7 +36,6 @@ Individual participants evaluate and compare participating robot systems through
 <https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEAr_4z6hFmdLmqnnKCyMP9pUMjIxT0UxNzdQME4zNkhRTFNVTDZZMVIzQS4u>
  
 ### Participation Capacity
- 
 - Maximum 12 robot teams
 - Maximum 60 individual participants
  
@@ -44,7 +43,7 @@ Participation is accepted on a first-come, first-served basis.
 
  
 # Competition Tasks
- 
+
 ## Task 1: Needle Threading
  
 <p align="center">
@@ -70,13 +69,13 @@ Participants may request a new randomized arrangement before starting a trial.
 <p align="center">
 <img src="Task2.jpg" width="700">
 </p>
- 
+
 Three M2 screws are placed inside a silicone dish integrated into a silicone pad fixture.
  
 The silicone pad contains three insertion holes designed for screw placement.
  
 ### Objective
- 
+
 Pick up each screw individually and insert it thread-first into one of the holes.
  
 A screw is considered successfully inserted when:
@@ -86,11 +85,9 @@ A screw is considered successfully inserted when:
 
  
 # Platform Eligibility
- 
-The competition is intentionally platform-agnostic.
- 
-Eligible systems include:
- 
+
+The competition is intentionally platform-agnostic. Eligible systems include:
+
 - Single-arm robots
 - Dual-arm robots
 - Multi-finger robotic hands
@@ -167,7 +164,7 @@ Robot systems are operated by members of the participating team.
 - 6 Task 1 trials
 - 6 Task 2 trials
 - First trial serves as a warm-up and is not scored
- 
+
 ### Maximum Score 
 - 30 points per participant
 - Best 3 robot systems counted
@@ -193,7 +190,7 @@ Participants accumulate points through:
 Volunteer judges receive:
 - 10 points per hour
 - Maximum 30 points
- 
+
 ## Teleoperation Performance
 Participants complete:
 - Task 1 trials
@@ -214,7 +211,6 @@ University of Toronto
 
  
 # Questions
- 
 Questions can be submitted through the official competition form:
  
 <https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSEAr_4z6hFmdLmqnnKCyMP9pUMUI0UzhRMlNKSTEyWEJYSDhWMkdBMFAyUC4u>
@@ -222,7 +218,6 @@ Questions can be submitted through the official competition form:
 
  
 # Related Competitions
- 
 The FFM Challenge builds upon concepts explored in recent robotic manipulation and surgical robotics competitions:
  
 - AI for Robotic Surgery, ICRA 2026
@@ -232,7 +227,6 @@ The FFM Challenge builds upon concepts explored in recent robotic manipulation a
 
  
 # References
- 
 - K. L. Schwaner et al., *MOPS: A Modular and Open Platform for Surgical Robotics Research*, ISMR 2021.
 - M. Habeeb et al., *Development of an Open Platform Adaptor to Integrate Da Vinci Si Instruments with Collaborative Robotic Systems*, HSMR 2025.
 - C. D'Ettorre et al., *Accelerating Surgical Robotics Research: A Review of 10 Years with the da Vinci Research Kit*, IEEE Robotics and Automation Magazine, 2021.
@@ -240,13 +234,10 @@ The FFM Challenge builds upon concepts explored in recent robotic manipulation a
 
  
 # Sponsors and Partners
- 
 Coming soon.
  
 
  
 # News
- 
 ### August 2026
- 
 Competition website updated with task descriptions, registration forms, and downloadable resources.
