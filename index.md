@@ -7,18 +7,16 @@ layout: default
  
 ## IROS 2026 Competition
 The Forceps-Based Fine Manipulation (FFM) Challenge aims to advance robotic manipulation of very small objects, a capability that remains challenging for robotic systems while being essential in applications such as precision manufacturing, scientific experimentation, electronics assembly, and surgical robotics.
- 
-Inspired by surgical robotic manipulation, the competition promotes the use of accessible forceps-based robotic systems, such as EndoWrist instruments integrated with robotic arms, while extending the scope beyond medical applications. These approaches can help reduce barriers to entry compared to established platforms such as the da Vinci Research Kit (dVRK), enabling broader participation and encouraging innovation across the robotics community.
- 
-The competition focuses on three key research areas:
- 
+
+<br>Inspired by surgical robotic manipulation, the competition promotes the use of accessible forceps-based robotic systems, such as EndoWrist instruments integrated with robotic arms, while extending the scope beyond medical applications. These approaches can help reduce barriers to entry compared to established platforms such as the da Vinci Research Kit (dVRK), enabling broader participation and encouraging innovation across the robotics community.
+
+<br>The competition focuses on three key research areas: 
 - Hardware Development
 - Teleoperation
 - Autonomous Control
 
  
 ## Registration
- 
 ### Team Registration
 
 Teams provide and operate their own robotic systems.
@@ -103,15 +101,14 @@ Teams may place the competition fixtures anywhere within their robot workspace.
 # Competition Scenarios
 
 The competition scenarios are based on the following components:
- 
+
 ### Commercial Components
- 
 - Fgruh 1260-piece M2 Hex Socket Head Screw Kit
 - EcoFlex 00-20 FAST Silicone
 - Silc Pig Silicone Pigments
 - Lunarm Plastic Sewing Needles (70 mm)
 - LEREATI 0.8 mm Waxed Thread
- 
+
 ### Custom Components
 
 All custom components are manufactured using PLA on a Bambu Lab A1 Mini printer:
@@ -121,11 +118,9 @@ All custom components are manufactured using PLA on a Bambu Lab A1 Mini printer:
 - Needle Holder L-Bracket
  
 Teams are encouraged to obtain identical components for testing and system validation prior to the competition.
- 
- 
-# Downloads
+
+### Download
   
-## Hardware Resources
  
 
  
