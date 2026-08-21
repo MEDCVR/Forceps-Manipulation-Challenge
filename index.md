@@ -53,13 +53,13 @@ Three differently colored plastic sewing needles are inserted into randomly sele
 The order of needle threading and the insertion directions are randomly selected before each trial.
 
 ### Objective
- 
+
 Guide a thread through all three needle eyes according to:
- 
+
 1. The specified order
 2. The specified insertion directions
- 
-Participants may request a new randomized arrangement before starting a trial.
+
+<br>Participants may request a new randomized arrangement before starting a trial.
 
  
 ## Task 2: Screw Pick-and-Place
@@ -74,10 +74,8 @@ The silicone pad contains three insertion holes designed for screw placement.
  
 ### Objective
 
-Pick up each screw individually and insert it thread-first into one of the holes.
- 
-A screw is considered successfully inserted when:
- 
+Pick up each screw individually and insert it thread-first into one of the holes. A screw is considered successfully inserted when:
+
 - the screw head rests on top of the silicone surface, or
 - the screw passes completely through the hole.
 
@@ -95,7 +93,7 @@ The competition is intentionally platform-agnostic. Eligible systems include:
 
 <br>No remote center of motion (RCM) constraint is required.
 
-Teams may place the competition fixtures anywhere within their robot workspace.
+Teams may place the competition scenarios anywhere within their robot workspace.
  
 
 # Competition Scenarios
@@ -121,7 +119,9 @@ Teams are encouraged to obtain identical components for testing and system valid
 
 ### Download
 👉 <https://github.com/MEDCVR/Forceps-Manipulation-Challenge/raw/refs/heads/main/IROS_FFM_Setup.zip>
- 
+
+# Scoring
+
 ### Task 1
 - Each correctly threaded needle eye is worth: **1 point**
 - A fully successful trial therefore yields: **3 points**
@@ -184,23 +184,27 @@ Volunteer judges receive:
 - 10 points per hour
 - Maximum 30 points
 
-## Teleoperation Performance
+## Teleoperation Performance (Day 2)
 Participants complete:
 - Task 1 trials
 - Task 2 trials
 
-Only the three highest-scoring teleoperation sessions contribute to the final score.
+Only the three highest-scoring teleoperation sessions with different robot systems contribute to the final score (30 points each).
 
 ### Maximum Individual Score: **120 points**
 
 # Organizers
  
-### Lueder Kahrs
- 
-University of Toronto
- 
-### ...
- 
+- **Lueder A. Kahrs** (University of Toronto)
+- **Peter Kazanzides** (Johns Hopkins University)
+- **Loris Fichera** (Worcester Polytechnic Institute)
+- **Adnan Munawar** (Johns Hopkins University)
+- **Thomas Looi** (The Hospital for Sick Children, Toronto)
+- **Tamás Haidegger** (Óbuda University; Queen's University)
+- **Christos Bergeles** (King's College London)
+- **Michael Yip** (University of California San Diego)
+- **Nirmal Pol** (university of Toronto)
+- **Aban Merali** (King's College London)
 
  
 # Questions
