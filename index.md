@@ -120,9 +120,11 @@ All custom components are manufactured using PLA on a Bambu Lab A1 Mini printer:
 Teams are encouraged to obtain identical components for testing and system validation prior to the competition.
 
 ### Download
-  
- 
-
+<p align="center">
+IROS_FFM_Setup.zip">
+<img src="https://img.shields.io/badge/Download-Itup.zip-blue?style=for-the-badge
+</a>
+</p>
  
 ### Task 1
 - Each correctly threaded needle eye is worth: **1 point**
